@@ -15,3 +15,26 @@
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
 }
+
+.orange { 
+  color: orange;
+}
+
+
+.purple { 
+  color: purple;
+}
+
+.off {
+  opacity: 0.3;
+}
+
+.rate-container {
+  border-top: 2px solid purple;
+  margin-top: 20px;
+}
+
+.rate-container .fa-star {
+  font-size: 1.8rem;
+  cursor: pointer;
+}
